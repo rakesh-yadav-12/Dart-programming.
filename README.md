@@ -2,7 +2,8 @@
 This is the solution to my internship's Dart programming worksheet
 
 1. Print a Message
-Write a Dart program that prints:
+Write a Dart program that prints.
+
 Hello, Dart! Welcome to Programming.
 
 output:

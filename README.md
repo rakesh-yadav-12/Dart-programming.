@@ -37,7 +37,18 @@ Print "Even" if the number is even.
 Print "Odd" if the number is odd.
 
 output:
-![Screenshot 2024-12-20 103439](https://github.com/user-attachments/assets/226d4e79-19d3-4b55-aadc-21074b814d0f)
+![Screenshot 2024-12-20 131811](https://github.com/user-attachments/assets/32202be4-cd54-421a-89c5-12a854eb30ca)
+
+4. Simple Calculator Using Functions
+5. 
+Write a Dart program to perform addition, subtraction, multiplication, and division using functions.
+
+Use two inputs a = 8 and b = 4.
+
+Create separate functions for each operation.
+output:
+![image](https://github.com/user-attachments/assets/5e9be903-9ac2-4d98-8884-6882aa29e996)
+
 
 
 

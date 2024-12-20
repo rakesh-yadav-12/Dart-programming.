@@ -26,5 +26,19 @@ Assign a = 10 and b = 5.
 output:
 ![Screenshot 2024-12-20 103439](https://github.com/user-attachments/assets/49467fb4-0ccc-48f3-860b-63420db8f086)
 
+3. Check Odd or Even
+   
+Write a Dart program to check if a given number is odd or even.
+
+Define a variable num = 11.
+
+Print "Even" if the number is even.
+
+Print "Odd" if the number is odd.
+
+output:
+![Screenshot 2024-12-20 103439](https://github.com/user-attachments/assets/226d4e79-19d3-4b55-aadc-21074b814d0f)
+
+
 
 

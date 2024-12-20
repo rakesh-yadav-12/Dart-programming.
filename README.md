@@ -24,6 +24,7 @@ Quotient
 Assign a = 10 and b = 5.
 
 output:
-![Uploading Screenshot 2024-12-20 095341.png…]()
+![Screenshot 2024-12-20 103439](https://github.com/user-attachments/assets/49467fb4-0ccc-48f3-860b-63420db8f086)
+
 
 
